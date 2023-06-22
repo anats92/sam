@@ -1,0 +1,5 @@
+Django==2.0.13
+django-ratelimit==4.0.0
+ratelimit==2.2.1
+requests==2.31.0
+djangorestframework==3.7.7
